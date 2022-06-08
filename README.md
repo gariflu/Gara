@@ -28,11 +28,6 @@ Fecha : 8/06/2022
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
-Twitter
-Instagram
-
-
 2. Memoria del proyecto
 2.1 Storyboard:
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
@@ -62,6 +57,7 @@ Video
 Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
+
 Etapa 3: Problemas identificados
 (que consideras que no funciona correctamente y por qué )
 
@@ -76,12 +72,8 @@ Recursos y materiales audiovisuales:
 
 Musica:
 Imágenes:
-Tipografía
+Tipografía: verdana
 Herramientas utilizadas
 
-Hippani Animator 5.1
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
